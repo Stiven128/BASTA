@@ -1,0 +1,11 @@
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\bin\Debug\Juego Cliente.exe.config
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\bin\Debug\Juego Cliente.exe
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\bin\Debug\Juego Cliente.pdb
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\obj\Debug\Juego Cliente.csprojAssemblyReference.cache
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\obj\Debug\Juego_Cliente.Form1.resources
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\obj\Debug\Juego_Cliente.Form2.resources
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\obj\Debug\Juego_Cliente.Form3.resources
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\obj\Debug\Juego_Cliente.Properties.Resources.resources
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\obj\Debug\Juego Cliente.csproj.GenerateResource.cache
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\obj\Debug\Juego Cliente.exe
+C:\Users\ACC MEX - EQP2\Desktop\Juego Cliente\Juego Cliente\obj\Debug\Juego Cliente.pdb
